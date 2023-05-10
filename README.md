@@ -7,8 +7,7 @@
   </picture>
 </a>
 
-### Hi there I'm Paris 👋
-
+###👋 Hi there I'm Paris 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Vue
 - 📫 How to reach me: ieep.roon@gmail.com
@@ -25,7 +24,7 @@
   <img src="https://f005.backblazeb2.com/file/img-forWeb/uPic/pikachu.gif" width="27px">
   <br><br />
   <samp>
-    Hi there I'm Paris 👋
+    👋 Hi there I'm Paris 
     <br>🔭 I’m currently working on Java
     <br>🌱 I’m currently learning Vue
     <br>📫 How to reach me: ieep.roon@gmail.com
