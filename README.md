@@ -31,7 +31,7 @@
   </picture>
 </a>
 
-### 👋 Hi there, I'm 白雾三语. <sup>(or ByWu)</sup>
+### 👋 Hey! Hi there I'm Paris
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Vue & Spring
