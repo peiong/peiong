@@ -25,11 +25,11 @@
   <img src="https://f005.backblazeb2.com/file/img-forWeb/uPic/pikachu.gif" width="27px">
   <br><br />
   <samp>
-    <h3>Hi there I'm Paris 👋</h3>
-    <h4>🔭 I’m currently working on Java</h4>
-    <h4>🌱 I’m currently learning Vue</h4>
-    <h4>📫 How to reach me: ieep.roon@gmail.com</h4>
-    <h4>❤️ Pronouns: lovelylots</h4>
+    Hi there I'm Paris 👋
+    <br>🔭 I’m currently working on Java
+    <br>🌱 I’m currently learning Vue
+    <br>📫 How to reach me: ieep.roon@gmail.com
+    <br>❤️ Pronouns: lovelylots
   </samp>
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilivi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paris' github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eilivi&layout=compact&theme=buefy&hide_border=true" /> </a> | 
