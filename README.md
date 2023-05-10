@@ -11,7 +11,7 @@
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilivi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paris' github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eilivi&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 </p>
-<br>
+<br/>
 <p align="right">
 <a><img height="20" alt="java" src="https://f005.backblazeb2.com/file/img-forWeb/uPic/java-2.png"></a>
 <a><img height="20" alt="spring" src="https://f005.backblazeb2.com/file/img-forWeb/uPic/spring.png"></a>
