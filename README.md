@@ -20,11 +20,10 @@
 </p> -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://f005.backblazeb2.com/file/img-forWeb/uPic/pikachu.gif" width="30px">
   <br><br />
   <samp>
     👋 Hey! Hi there I'm Paris
-    <br />
     <br />🔭 I’m currently working on Java
     <br />🌱 I’m currently learning Vue
     <br />📫 How to reach me: ieep.roon@gmail.com
