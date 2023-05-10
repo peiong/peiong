@@ -25,11 +25,11 @@
   <img src="https://f005.backblazeb2.com/file/img-forWeb/uPic/pikachu.gif" width="27px">
   <br><br />
   <samp>
-    😆 Hey! Welcome to my profile
-    <br />🔭 I’m currently working on Java
-    <br />🌱 I’m currently learning Vue
-    <br />📫 How to reach me: ieep.roon@gmail.com
-    <br />❤️ Pronouns: lovelylots
+### Hi there I'm Paris 👋
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me: ieep.roon@gmail.com
+- ❤️ Pronouns: lovelylots
   </samp>
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilivi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paris' github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eilivi&layout=compact&theme=buefy&hide_border=true" /> </a> | 
