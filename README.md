@@ -8,7 +8,7 @@
     <br>📫 How to reach me: ieep.roon@gmail.com
     <br>❤️ Pronouns: lovelylots
   </samp>
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilivi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paris' github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eilivi&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eilivi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paris' github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eilivi&layout=compact&theme=buefy&hide_border=false" /> </a> | 
 | ------------- | ------------- |
 </p>
 <br/>
