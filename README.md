@@ -33,7 +33,7 @@
 
 ### 👋 Hey! Hi there I'm Paris
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on Framework
 - 🌱 I’m currently learning Vue & Spring
 - 📫 How to reach me: ieep.roon@gmail.com
 - ❤️ Pronouns: lovelylots
