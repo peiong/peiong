@@ -10,14 +10,16 @@
 <br>
 
 <!--  skill badge 技能徽章 -->
-![SpringBoot Badge](https://img.shields.io/badge/Springboot-764abc?logoColor=fff&style=flat)
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![React.js Badge](https://img.shields.io/badge/React.js-764abc?logoColor=fff&style=flat)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
